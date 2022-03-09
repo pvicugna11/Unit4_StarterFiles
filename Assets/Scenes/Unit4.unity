@@ -3813,3 +3813,72 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 243d6a72476f3fd46a19640908a35416, type: 3}
+--- !u!1001 &5731928947524674199
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 683662977090982724, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550748893852131671, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+        type: 3}
+      propertyPath: m_Name
+      value: Character_Tourist_01
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 20c97852f23f49b4eb5268fb8012dcd7, type: 3}
