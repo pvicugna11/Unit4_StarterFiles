@@ -3368,6 +3368,8 @@ PlayableDirector:
     value: {fileID: 1510490763}
   - key: {fileID: -7834939512563650394, guid: a49dd342b20867145b2aea17041a83e7, type: 2}
     value: {fileID: 324635873}
+  - key: {fileID: -7072540300729033765, guid: a49dd342b20867145b2aea17041a83e7, type: 2}
+    value: {fileID: 3166231814984145659}
   m_ExposedReferences:
     m_References: []
 --- !u!1001 &1926368425
@@ -3735,6 +3737,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2443244404880349736, guid: 4ba2423918b5b98468250a9f5ef9c097,
     type: 3}
   m_PrefabInstance: {fileID: 360009588430717069}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &3166231814984145659 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7256184295657495889, guid: 243d6a72476f3fd46a19640908a35416,
+    type: 3}
+  m_PrefabInstance: {fileID: 5711569433466849194}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5711569433466849194
 PrefabInstance:
