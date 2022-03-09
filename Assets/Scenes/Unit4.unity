@@ -3370,6 +3370,8 @@ PlayableDirector:
     value: {fileID: 324635873}
   - key: {fileID: -7072540300729033765, guid: a49dd342b20867145b2aea17041a83e7, type: 2}
     value: {fileID: 3166231814984145659}
+  - key: {fileID: -5188498861409149146, guid: a49dd342b20867145b2aea17041a83e7, type: 2}
+    value: {fileID: 2917557512015191209}
   m_ExposedReferences:
     m_References: []
 --- !u!1001 &1926368425
@@ -3738,6 +3740,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 360009588430717069}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &2917557512015191209 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7491412642021293630, guid: 20c97852f23f49b4eb5268fb8012dcd7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5731928947524674199}
+  m_PrefabAsset: {fileID: 0}
 --- !u!95 &3166231814984145659 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 7256184295657495889, guid: 243d6a72476f3fd46a19640908a35416,
@@ -3878,7 +3886,7 @@ PrefabInstance:
     - target: {fileID: 4550748893852131671, guid: 20c97852f23f49b4eb5268fb8012dcd7,
         type: 3}
       propertyPath: m_Name
-      value: Character_Tourist_01
+      value: Tourist
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20c97852f23f49b4eb5268fb8012dcd7, type: 3}
